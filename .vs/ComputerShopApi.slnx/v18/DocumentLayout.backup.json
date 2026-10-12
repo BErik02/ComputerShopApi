@@ -3,8 +3,36 @@
   "WorkspaceRootPath": "C:\\Users\\bakae\\source\\repos\\ComputerShopApi\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{C529EC57-A3F4-4D32-B55D-A0DBFC0BFADC}|ComputerShopApi.csproj|c:\\users\\bakae\\source\\repos\\computershopapi\\controllers\\osystemcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C529EC57-A3F4-4D32-B55D-A0DBFC0BFADC}|ComputerShopApi.csproj|solutionrelative:controllers\\osystemcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C529EC57-A3F4-4D32-B55D-A0DBFC0BFADC}|ComputerShopApi.csproj|c:\\users\\bakae\\source\\repos\\computershopapi\\models\\dtos\\addnewosystemdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C529EC57-A3F4-4D32-B55D-A0DBFC0BFADC}|ComputerShopApi.csproj|solutionrelative:models\\dtos\\addnewosystemdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C529EC57-A3F4-4D32-B55D-A0DBFC0BFADC}|ComputerShopApi.csproj|c:\\users\\bakae\\source\\repos\\computershopapi\\models\\osystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C529EC57-A3F4-4D32-B55D-A0DBFC0BFADC}|ComputerShopApi.csproj|solutionrelative:models\\osystem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C529EC57-A3F4-4D32-B55D-A0DBFC0BFADC}|ComputerShopApi.csproj|c:\\users\\bakae\\source\\repos\\computershopapi\\migrations\\computershopdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C529EC57-A3F4-4D32-B55D-A0DBFC0BFADC}|ComputerShopApi.csproj|solutionrelative:migrations\\computershopdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\bakae\\source\\repos\\ComputerShopApi\\Migrations\\20261012085745_InitialDb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Migrations\\20261012085745_InitialDb.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C529EC57-A3F4-4D32-B55D-A0DBFC0BFADC}|ComputerShopApi.csproj|c:\\users\\bakae\\source\\repos\\computershopapi\\models\\computershopdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C529EC57-A3F4-4D32-B55D-A0DBFC0BFADC}|ComputerShopApi.csproj|solutionrelative:models\\computershopdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{C529EC57-A3F4-4D32-B55D-A0DBFC0BFADC}|ComputerShopApi.csproj|c:\\users\\bakae\\source\\repos\\computershopapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{C529EC57-A3F4-4D32-B55D-A0DBFC0BFADC}|ComputerShopApi.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C529EC57-A3F4-4D32-B55D-A0DBFC0BFADC}|ComputerShopApi.csproj|c:\\users\\bakae\\source\\repos\\computershopapi\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{C529EC57-A3F4-4D32-B55D-A0DBFC0BFADC}|ComputerShopApi.csproj|solutionrelative:properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,21 +42,8 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 6,
           "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\bakae\\source\\repos\\ComputerShopApi\\Program.cs",
-              "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "C:\\Users\\bakae\\source\\repos\\ComputerShopApi\\Program.cs*",
-              "RelativeToolTip": "Program.cs*",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAAjAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-10-12T07:26:03.587Z",
-              "EditorCaption": ""
-            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
@@ -48,6 +63,110 @@
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AddNewOsystemDTO.cs",
+              "DocumentMoniker": "C:\\Users\\bakae\\source\\repos\\ComputerShopApi\\Models\\DTOs\\AddNewOsystemDTO.cs",
+              "RelativeDocumentMoniker": "Models\\DTOs\\AddNewOsystemDTO.cs",
+              "ToolTip": "C:\\Users\\bakae\\source\\repos\\ComputerShopApi\\Models\\DTOs\\AddNewOsystemDTO.cs*",
+              "RelativeToolTip": "Models\\DTOs\\AddNewOsystemDTO.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-12T09:15:00.663Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "OsystemController.cs",
+              "DocumentMoniker": "C:\\Users\\bakae\\source\\repos\\ComputerShopApi\\Controllers\\OsystemController.cs",
+              "RelativeDocumentMoniker": "Controllers\\OsystemController.cs",
+              "ToolTip": "C:\\Users\\bakae\\source\\repos\\ComputerShopApi\\Controllers\\OsystemController.cs*",
+              "RelativeToolTip": "Controllers\\OsystemController.cs*",
+              "ViewState": "AgIAABUAAAAAAAAAAAAYwB4AAABeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-12T09:10:11.379Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ComputerShopDbContextModelSnapshot.cs",
+              "DocumentMoniker": "C:\\Users\\bakae\\source\\repos\\ComputerShopApi\\Migrations\\ComputerShopDbContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "Migrations\\ComputerShopDbContextModelSnapshot.cs",
+              "ToolTip": "C:\\Users\\bakae\\source\\repos\\ComputerShopApi\\Migrations\\ComputerShopDbContextModelSnapshot.cs",
+              "RelativeToolTip": "Migrations\\ComputerShopDbContextModelSnapshot.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-12T08:57:58.908Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "20261012085745_InitialDb.cs",
+              "DocumentMoniker": "C:\\Users\\bakae\\source\\repos\\ComputerShopApi\\Migrations\\20261012085745_InitialDb.cs",
+              "RelativeDocumentMoniker": "Migrations\\20261012085745_InitialDb.cs",
+              "ToolTip": "C:\\Users\\bakae\\source\\repos\\ComputerShopApi\\Migrations\\20261012085745_InitialDb.cs",
+              "RelativeToolTip": "Migrations\\20261012085745_InitialDb.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-12T08:57:46.461Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ComputerShopDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\bakae\\source\\repos\\ComputerShopApi\\Models\\ComputerShopDbContext.cs",
+              "RelativeDocumentMoniker": "Models\\ComputerShopDbContext.cs",
+              "ToolTip": "C:\\Users\\bakae\\source\\repos\\ComputerShopApi\\Models\\ComputerShopDbContext.cs",
+              "RelativeToolTip": "Models\\ComputerShopDbContext.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAwBEAAABTAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-12T08:36:16.852Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Osystem.cs",
+              "DocumentMoniker": "C:\\Users\\bakae\\source\\repos\\ComputerShopApi\\Models\\Osystem.cs",
+              "RelativeDocumentMoniker": "Models\\Osystem.cs",
+              "ToolTip": "C:\\Users\\bakae\\source\\repos\\ComputerShopApi\\Models\\Osystem.cs",
+              "RelativeToolTip": "Models\\Osystem.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-12T08:26:27.885Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\bakae\\source\\repos\\ComputerShopApi\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\bakae\\source\\repos\\ComputerShopApi\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-10-12T07:36:18.201Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\bakae\\source\\repos\\ComputerShopApi\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\bakae\\source\\repos\\ComputerShopApi\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAiwBcAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-12T07:26:03.587Z",
+              "EditorCaption": ""
             }
           ]
         }
