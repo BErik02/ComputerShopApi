@@ -7,6 +7,7 @@ namespace ComputerShopApi
         {
             var builder = WebApplication.CreateBuilder(args);
 
+            builder.Services.AddSwaggerGen();
             // Add services to the container.
 
             builder.Services.AddControllers();
@@ -19,6 +20,8 @@ namespace ComputerShopApi
             if (app.Environment.IsDevelopment())
             {
                 app.MapOpenApi();
+                app.MapSwagger();
+                app.MapSwaggerUI();
             }
 
             app.UseHttpsRedirection();
