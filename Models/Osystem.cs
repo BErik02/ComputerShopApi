@@ -1,4 +1,5 @@
-﻿using System.ComponentModel.DataAnnotations;
+﻿using System.Collections.ObjectModel;
+using System.ComponentModel.DataAnnotations;
 
 namespace ComputerShopApi.Models
 {
@@ -12,5 +13,7 @@ namespace ComputerShopApi.Models
         public DateTime RegisterTime { get; set; }
 
         public DateTime UpdateTime { get; set; }
+
+        public ICollection<Computer> Computers { get; set; }
     }
 }
